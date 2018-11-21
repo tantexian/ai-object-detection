@@ -17,3 +17,5 @@ out
 .ipynb_checkpoints/*
 __pycache__
 
+ssd_mobilenet_v1_coco_2017_11_17.tar.gz
+ssd_mobilenet_v1_coco_2017_11_17
